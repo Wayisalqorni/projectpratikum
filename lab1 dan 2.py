@@ -26,3 +26,6 @@ print('{0:>3} {1:>16}'.format(10, 10**10))
 print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))
 print('{0:8} | {1:9}'.format('Sasa',3.))
 print('{0:8} | {1:9}'.format('Nila',10))
+
+print('{:<30}{:30}{:>30}'.format('motor','kereta','kapal'))
+print('{:<30}{:30}{:>30}'.format(10,20,15))
