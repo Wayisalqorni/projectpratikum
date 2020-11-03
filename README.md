@@ -56,7 +56,7 @@ print("please enter your full name : ") <br>
 Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name :** ". <br>
  Untuk menampilkan output string, saya menggunakan *tanda petik dua* didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan *tanda petik dua*. Contohnya : <br>
 
-```python
+``` 
 
 print("Nama saya adalah...") <br>
 print(1234567) <br>
