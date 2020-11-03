@@ -1,6 +1,6 @@
 # projectpratikum
 
-![logo](poto/logo.png)
+![logo](poto/logo.PNG)
 
 print("==============================") <br>
 print("= NAMA    : Risky HariAdi     ") <br>
