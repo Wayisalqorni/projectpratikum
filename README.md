@@ -115,3 +115,69 @@ Keterangan :
 * Fungsi huruf f pada perintah print(f"....") adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )
 * sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable
 Hasil dari output tersebut seperti berikut :
+
+![biodata3](poto/biodata3.PNG)
+
+# Pertemuan 6 - Lab 1
+
+Pada halaman ini (Tugas Pertemuan 6 - Lab 1) saya diberikan tugas oleh Dosen yaitu mempelajari operator aritmatika menggunakan bahasa Pemrograman pyhton. Berikut source code yang di berikan oleh dosen : 
+
+#penggunaan end
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
+
+#penggunaan separator
+
+`w, x, y, z = 10, 15, 20, 25`
+`print(w, x, y, z)`
+`print(w, x, y, z, sep=',')`
+`print(w, x, y, z, sep='')`
+`print(w, x, y, z, sep=':')`
+`print(w, x, y, z, sep='.....')`
+
+Oke, kali ini saya akan menjelaskan tentang materi yang di berikan oleh Dosen.
+
+* Penggunaan END Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. secara default penggunaan end adalah untuk ganti baris. 
+
+`print('A', end='')`
+`print('B', end='')`
+`print('C', end='')`
+> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :
+
+`print()`
+>Syntax dibawah ini digunakan untuk menampilkan output berupa string
+
+`print('X')`
+`print('Y')`
+`print('z')`
+
+Hasil dari source code tersebut seperti gambar dibawah ini :
+
+![end](poto/end.PNG)
+
+* Penggunaan separator
+>Pendeklarasian beberapa variable beserta nilainya
+
+w,x,y,z=10,15,20,25
+>Menampilkan hasil dari variable tiap-tiap variable
+
+`print(w,x,y,z)`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (koma)
+
+`print(w,x,y,z,sep=",")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah
+
+`print(w,x,y,z,sep="")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah : (titik dua)
+
+`print(w,x,y,z,sep=":")`
+>Menampilkan hasil dari tiap-tiap variable dengan menggunakan pemisah
+
+`print(w,x,y,z,sep="-----")`
+
+* hasil dari syntax / source code diatas adalah seperti berikut ini : 
