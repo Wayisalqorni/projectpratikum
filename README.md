@@ -281,6 +281,11 @@ a=int(a) b=int(b) print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b)) print(
 
 Untuk hasil dari String Format 2 adalah :
 
+![ini](poto/ini.PNG)
+
+# TERIMAKASI BANYAK
+
+
 
 
 
